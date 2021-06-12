@@ -2,7 +2,8 @@
 
 name: Gwet's AC1 R Code
 
-# calculate reliability for 2 or more coders
+# calculate reliability for 2 or more coders based on R code sourced here https://cran.r-project.org/web/packages/irrCAC/vignettes/overview.html  
+# verified using the calculator developed by Gwet himself:: https://agreestat360.com/
 
 on
 
